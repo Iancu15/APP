@@ -1,0 +1,4 @@
+input
+gauss-jordan-openmp
+gauss-jordan-pthreads
+gauss-jordan-serial
